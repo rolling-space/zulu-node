@@ -4,7 +4,7 @@
 # Authors:
 #   Sorin Ionescu <sorin.ionescu@gmail.com>
 #   Zeh Rizzatti <zehrizzatti@gmail.com>
-#
+
 
 lazy_load_nvm() {
   NVM_DIR=$1
