@@ -4,7 +4,6 @@
 # Authors:
 #   Sorin Ionescu <sorin.ionescu@gmail.com>
 #   Zeh Rizzatti <zehrizzatti@gmail.com>
-#   Petros <petros@rolling.space>
 #
 
 lazy_load_nvm() {
